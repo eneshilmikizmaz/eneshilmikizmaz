@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enes Hilmi Kızmaz</h1>
+<h3 align="center">Hi 👋, I'm Enes Hilmi Kızmaz</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesshk&label=Profile%20views&color=0e75b6&style=flat" alt="enesshk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
